@@ -25,6 +25,7 @@
                         <span aria-hidden="true">&times;</span>
                         </button>
       </div>
+      <br>
 
 		<div class="promotion">
    			<div class="container">
