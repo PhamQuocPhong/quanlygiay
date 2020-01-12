@@ -10,7 +10,7 @@
 ## Shop Giay
     Version: 0.1 MVP
 ## Run Project
-    1. composer install.
+    1. composer install
     2. php artisan key:generate
     3. php artisan cache:clear
     
