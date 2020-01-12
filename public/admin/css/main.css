@@ -1,0 +1,33 @@
+
+.table > tbody > tr > td .del{
+	padding: 3px 7px;
+    background-color: #f16a6a;
+    border: none;
+    border-radius: 5px 5px;
+    color: #fff;
+    width: 50px;
+    margin-top: -3px;
+}
+
+.table > tbody > tr > td .edit{
+	padding: 3px 7px;
+    background-color: #13bbc3;
+    border: none;
+    border-radius: 5px 5px;
+    color: #fff;
+    width: 50px;
+    margin-top: -3px;
+}
+
+.products .modal .form-group {
+  line-height: 30px;
+}
+
+.fa-times{
+    color: red;
+}
+
+.list-inline{
+    display: inline-block;
+    float: right;
+}
